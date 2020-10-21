@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# untracked files
+Lab 3 - Computer Vision/test/
+Lab 3 - Computer Vision/train/
+Lab 2 - CNN/data
